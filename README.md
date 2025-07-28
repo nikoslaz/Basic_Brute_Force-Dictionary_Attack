@@ -21,9 +21,3 @@ This section details a dictionary attack using a common password list (`rockyou.
     *   The MD5 hash of the password string is calculated.
     *   The calculated hash is compared against a list of target MD5 hashes.
     *   If a match is found, the corresponding plaintext password has been successfully recovered.
-
-I tried to do the brute force attack while I was sleeping but it when I woke up VS code was closed. But with the dictionary attack I found the words:
-
-- cat
-- computer
-- Greece
