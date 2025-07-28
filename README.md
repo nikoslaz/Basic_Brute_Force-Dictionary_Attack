@@ -1,6 +1,6 @@
 Nikolaos Lazarids - csd4922
 
-## Part B: Basic Brute-Force Attack
+## Basic Brute-Force Attack
 
 This section details a basic brute-force attack designed to crack short passwords (up to 8 characters) protected by MD5 hashing.
 
@@ -12,7 +12,7 @@ This section details a basic brute-force attack designed to crack short password
     *   The calculated hash is compared against a list of target MD5 hashes.
     *   If a match is found, the corresponding plaintext password has been successfully recovered.
 
-## Part B: Dictionary Attack
+## Dictionary Attack
 
 This section details a dictionary attack using a common password list (`rockyou.txt`) to crack MD5 hashes.
 
